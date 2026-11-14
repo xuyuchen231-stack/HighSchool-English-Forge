@@ -1,0 +1,471 @@
+{
+  "title": "高中英语课程与教学知识索引",
+  "version": "0.1",
+  "disclaimer": "索引不是已审校的完整知识库",
+  "topics": [
+    {
+      "id": "ENG-001",
+      "title": "课程目标与英语学习策略",
+      "section": "课程与学习策略",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-002",
+      "title": "主题语境与文化意识",
+      "section": "课程与学习策略",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-003",
+      "title": "语篇类型与语用",
+      "section": "课程与学习策略",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-004",
+      "title": "核心词义与词性",
+      "section": "词汇与构词",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-005",
+      "title": "一词多义与熟词生义",
+      "section": "词汇与构词",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-006",
+      "title": "词根词缀与构词法",
+      "section": "词汇与构词",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-007",
+      "title": "近义词辨析",
+      "section": "词汇与构词",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-008",
+      "title": "固定搭配与介词搭配",
+      "section": "词汇与构词",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-009",
+      "title": "动词短语",
+      "section": "词汇与构词",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-010",
+      "title": "语境猜词",
+      "section": "词汇与构词",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-011",
+      "title": "句子成分与五种基本句型",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-012",
+      "title": "名词与冠词",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-013",
+      "title": "代词与限定词",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-014",
+      "title": "形容词与副词",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-015",
+      "title": "介词与连词",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-016",
+      "title": "主谓一致",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-017",
+      "title": "时态与体",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-018",
+      "title": "被动语态",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-019",
+      "title": "情态动词与虚拟语气",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-020",
+      "title": "非谓语动词",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-021",
+      "title": "名词性从句",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-022",
+      "title": "定语从句",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-023",
+      "title": "状语从句",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-024",
+      "title": "倒装与强调",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-025",
+      "title": "省略与替代",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-026",
+      "title": "独立主格与特殊结构",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-027",
+      "title": "标点与句法歧义",
+      "section": "语法基础",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-028",
+      "title": "细节理解",
+      "section": "阅读与语篇",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-029",
+      "title": "主旨大意",
+      "section": "阅读与语篇",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-030",
+      "title": "推理判断",
+      "section": "阅读与语篇",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-031",
+      "title": "词义猜测",
+      "section": "阅读与语篇",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-032",
+      "title": "作者态度与写作意图",
+      "section": "阅读与语篇",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-033",
+      "title": "篇章结构与指代",
+      "section": "阅读与语篇",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-034",
+      "title": "七选五语篇衔接",
+      "section": "阅读与语篇",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-035",
+      "title": "长难句分析",
+      "section": "阅读与语篇",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-036",
+      "title": "图表与非连续文本",
+      "section": "阅读与语篇",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-037",
+      "title": "完形词汇与逻辑",
+      "section": "完形与语法填空",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-038",
+      "title": "语法填空有提示词",
+      "section": "完形与语法填空",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-039",
+      "title": "语法填空无提示词",
+      "section": "完形与语法填空",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-040",
+      "title": "语篇时态与照应",
+      "section": "完形与语法填空",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-041",
+      "title": "语音与重音",
+      "section": "听说",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-042",
+      "title": "连读弱读与语调",
+      "section": "听说",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-043",
+      "title": "听力细节与主旨",
+      "section": "听说",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-044",
+      "title": "听力推断与笔记",
+      "section": "听说",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-045",
+      "title": "口语交际与语域",
+      "section": "听说",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-046",
+      "title": "应用文审题与结构",
+      "section": "写作",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-047",
+      "title": "邀请信与建议信",
+      "section": "写作",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-048",
+      "title": "通知与演讲稿",
+      "section": "写作",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-049",
+      "title": "读后续写情节构建",
+      "section": "写作",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-050",
+      "title": "读后续写人物与情感",
+      "section": "写作",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-051",
+      "title": "段落衔接与连贯",
+      "section": "写作",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-052",
+      "title": "句式升级与准确表达",
+      "section": "写作",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-053",
+      "title": "写作修改与评分",
+      "section": "写作",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-054",
+      "title": "无答案试卷独立求解",
+      "section": "考试与教学",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-055",
+      "title": "逐选项讲解与证据定位",
+      "section": "考试与教学",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-056",
+      "title": "错题诊断与前置知识",
+      "section": "考试与教学",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-057",
+      "title": "分层教学与迁移训练",
+      "section": "考试与教学",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "ENG-058",
+      "title": "教师讲义与PDF排版",
+      "section": "考试与教学",
+      "level": "senior_high",
+      "status": "index_only",
+      "prerequisites": []
+    }
+  ]
+}
