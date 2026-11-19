@@ -26,6 +26,7 @@ Unless the user asks for a narrower scope, produce:
 If the environment cannot create or validate one format, report that limitation; never claim a missing file exists.
 
 ## Mandatory workflow
+0. Follow `references/sequential-exam-production.md` before all analysis. Process only one paper, then one chapter at a time. Never batch multiple papers or chapters.
 1. Inspect every page and embedded image. Record exam name, province, year, duration, total score, page count, question IDs, options, subparts, writing prompts, listening assets and source provenance. Hash the source. Do not infer missing pages or audio.
 2. Solve independently before consulting any supplied key. Keep an answer ledger with question ID, answer, evidence/rule, confidence, ambiguity and verification status.
 3. For every multiple-choice item explain all options, not just the correct one. For every fill-in, translation and writing task cover every requested element. Never leave an item represented only by a topic label.
@@ -34,7 +35,7 @@ If the environment cannot create or validate one format, report that limitation;
 6. Grammar filling: identify sentence structure and grammatical slot first; then explain word class, inflection, tense/aspect, voice, non-finite form, agreement, clause function or fixed construction. Give alternatives only when grammatically and contextually acceptable.
 7. Writing: analyse audience, purpose, genre, content points, format, register, word limit and continuity constraints. Supply a model answer, sentence-level commentary, alternative expressions and a scoring-oriented checklist. A model is not the only valid answer.
 8. Extract exam-specific vocabulary and collocations from the actual paper. Separate directly tested/high-value items from useful extensions; include contextual meaning, part of speech, collocation, example, translation, register and common misuse. Never pad with unrelated word lists.
-9. Produce the writing slide deck using the dedicated spec. Cover both genres and both proficiency tracks, and include guided practice, independent practice, model answers and feedback criteria.
+9. Produce the writing slide deck using `references/full-english-classroom-ppt-standard.md`; all slide content must be English-only and high-density classroom teaching material, not a sparse AI-style presentation. Cover both genres and both proficiency tracks, and include guided practice, independent practice, model answers and feedback criteria.
 10. Independently review answers and language. Compare with official keys only after independent solving; investigate every disagreement from the source evidence. For uncertain items state the uncertainty.
 11. Build PDFs/PPTX, reopen them, render every page/slide and inspect. Run structural validation; separately conduct linguistic, pedagogical and visual review.
 12. Deliver only when all required gates pass. If source material is incomplete, issue a clearly scoped partial pack and enumerate blockers rather than calling it complete.
