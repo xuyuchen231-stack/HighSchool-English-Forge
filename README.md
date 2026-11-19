@@ -14,6 +14,13 @@ A source-faithful Gaokao English teaching and assessment skill. It turns a user-
 - Collocations, register, word formation, polysemy, paraphrase and distractor design are taught in context.
 - Writing teaching distinguishes application writing from continuation writing, with separate communicative and narrative requirements.
 
+## Mandatory production rules
+- Work on one uploaded examination at a time, in upload order.
+- Work on one printed chapter/section at a time; complete, check and export it before proceeding.
+- If listening audio/transcript is missing, mark listening blocked rather than guessing.
+- Do not call a partial chapter a complete exam solution.
+- All PPT slides must be English-only and follow a dense, visually disciplined senior-high classroom style. See `references/full-english-classroom-ppt-standard.md`.
+
 ## Use
 Upload the complete exam PDF/images (and listening audio or verified transcript if listening is included), then ask the agent to run the full exam workflow. Specify province/year if known. If unknown, the agent must state its assumptions. Do not ask it to invent missing pages, audio or official answers.
 
